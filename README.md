@@ -1,6 +1,6 @@
 # hello_t
 
-A T package.
+A [T](https://github.com/b-rodrigues/tlang) package.
 
 ## Description
 
